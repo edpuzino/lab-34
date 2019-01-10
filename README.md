@@ -1,15 +1,17 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+[![Build Status](https://travis-ci.com/edpuzino/lab-34.svg?branch=master)](https://travis-ci.com/edpuzino/lab-34)
 
-### Author: Student/Group Name
+## Lab 34
+
+### Author: Ed Puzino
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/edpuzino/lab-34)
+* [travis](https://travis-ci.com/edpuzino/lab-34)
+* [API](https://javascript-401-api.herokuapp.com)
+* [codesandbox](https://codesandbox.io/s/62zwlqp48z)
 
 ### Modules
 #### `modulename.js`
